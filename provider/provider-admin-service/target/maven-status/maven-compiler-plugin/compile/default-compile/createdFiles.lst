@@ -1,0 +1,6 @@
+com\funtl\myshop\plus\provider\configure\UmsAdminResourceConfiguration.class
+com\funtl\myshop\plus\provider\service\EchoServiceImpl.class
+com\funtl\myshop\plus\provider\service\fallback\UmsAdminServiceFallback.class
+com\funtl\myshop\plus\provider\service\UmsAdminServiceImpl.class
+com\funtl\myshop\plus\provider\ProviderAdminApplication.class
+com\funtl\myshop\plus\provider\mapper\UmsAdminMapper.class

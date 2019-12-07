@@ -1,0 +1,3 @@
+com\funtl\myshop\plus\cloud\CloudUploadApplication.class
+com\funtl\myshop\plus\cloud\controller\UploadController.class
+com\funtl\myshop\plus\cloud\configure\UploadResourceServerConfiguration.class

@@ -1,0 +1,5 @@
+com\funtl\myshop\plus\cloud\message\MessageSource.class
+com\funtl\myshop\plus\cloud\CloudMessageApplication.class
+com\funtl\myshop\plus\cloud\controller\MessageController.class
+com\funtl\myshop\plus\cloud\configure\MessageResourceServerConfiguration.class
+com\funtl\myshop\plus\cloud\producer\MessageProducer.class

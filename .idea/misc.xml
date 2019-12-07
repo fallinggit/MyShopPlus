@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/ums-admin-provider-service/pom.xml" />
+        <option value="$PROJECT_DIR$/commons/pom.xml" />
+        <option value="$PROJECT_DIR$/commons/commons-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/business/business-profile/pom.xml" />
+        <option value="$PROJECT_DIR$/configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/ums-admin-provider-api/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/provider-admin-login-log-api/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/provider-admin-login-log-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud/cloud-upload-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud/cloud-upload-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud/cloud-message-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud/cloud-message-service/pom.xml" />
+        <option value="$PROJECT_DIR$/message/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud/cloud-message-api/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud/cloud-message-dto/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

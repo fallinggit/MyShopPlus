@@ -1,0 +1,12 @@
+com\funtl\myshop\plus\business\BusinessException.class
+com\funtl\myshop\plus\business\BusinessStatus.class
+com\funtl\myshop\plus\commons\utils\OkHttpClientUtil.class
+com\funtl\myshop\plus\commons\utils\OkHttpClientUtil$MyNetCall.class
+com\funtl\myshop\plus\commons\utils\MapperUtils.class
+com\funtl\myshop\plus\commons\utils\OkHttpClientUtil$2.class
+com\funtl\myshop\plus\commons\utils\UserAgentUtils.class
+com\funtl\myshop\plus\commons\dto\ResponseResult.class
+com\funtl\myshop\plus\commons\dto\IpInfo.class
+com\funtl\myshop\plus\business\BusinessExceptionHandler.class
+com\funtl\myshop\plus\commons\utils\OkHttpClientUtil$1.class
+com\funtl\myshop\plus\commons\utils\MapperUtils$1.class

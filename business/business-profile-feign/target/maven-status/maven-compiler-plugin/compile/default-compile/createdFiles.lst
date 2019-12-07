@@ -1,0 +1,6 @@
+com\funtl\myshop\plus\business\dto\params\IconParam.class
+com\funtl\myshop\plus\business\feign\ProfileFeign.class
+com\funtl\myshop\plus\business\feign\fallback\ProfileFeignFallback.class
+com\funtl\myshop\plus\business\dto\params\ProfileParam.class
+com\funtl\myshop\plus\business\dto\UmsAdminDTO.class
+com\funtl\myshop\plus\business\dto\params\PasswordParam.class

@@ -1,0 +1,3 @@
+com\funtl\myshop\plus\cloud\feign\UploadFeign.class
+com\funtl\myshop\plus\cloud\dto\FileInfo.class
+com\funtl\myshop\plus\cloud\feign\fallback\UploadFeignFallback.class

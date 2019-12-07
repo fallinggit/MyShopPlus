@@ -1,0 +1,4 @@
+com\funtl\myshop\plus\business\configure\ProfileResourceServerConfiguration.class
+com\funtl\myshop\plus\business\controller\ProfileController.class
+com\funtl\myshop\plus\business\BusinessProfileApplication.class
+com\funtl\myshop\plus\business\controller\fallback\ProfileControllerFallback.class
